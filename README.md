@@ -1,44 +1,34 @@
-# 𝘈𝘧𝘥𝘩𝘢𝘭 & 𝘋𝘏𝘈 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯 𝘈𝘭𝘭 𝘳𝘪𝘨𝘩𝘵𝘴 𝘳𝘦𝘴𝘦𝘳𝘷𝘦𝘥.
+<h1 align="center">Hai 👋, saya Afdhal</h1>
+<h3 align="center">Pengembang front-end yang bersemangat dari Indonesia</h3>
 
-My Github Profile
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhall-afdhal&label=Profile%20views&color=0e75b6&style=flat" alt="dhall-afdhal" /> </p>
 
-<!-- Banner SVG Animasi -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afdhali-dev/afdhali-dev/main/banner-coding.svg" alt="Banner Coding" width="100%"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhall-afdhal" alt="dhall-afdhal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 Saat ini saya sedang mengerjakan [asa](ssa)
+
+- 🌱 Saat ini saya sedang mempelajari **asasa**
+
+- 👯 Saya ingin berkolaborasi pada [saa](asasa)
+
+- 🤝 Saya mencari bantuan dengan [asas](asas)
+
+- 💬 Tanyakan kepada saya tentang **asasa**
+
+<h3 align="left">Hubungi saya:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Bahasa dan Alat:</h3>
+Bahasa Indonesia: <p align="kiri"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" lebar="40" tinggi="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" lebar="40" tinggi="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/komunitas/lencana_komunitas_blender_white.svg" alt="blender" lebar="40" tinggi="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" lebar="40" tinggi="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" lebar="40" tinggi="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" lebar="40" tinggi="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ekspres" lebar="40" tinggi="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" lebar="40" tinggi="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" lebar="40" tinggi="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" lebar="40" tinggi="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" lebar="40" tinggi="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" lebar="40" tinggi="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" lebar="40" tinggi="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" lebar="40" tinggi="40"/> Bahasa Indonesia: </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" lebar="40" tinggi="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" lebar="40" tinggi="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" lebar="40" tinggi="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" lebar="40" tinggi="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" lebar="40" tinggi="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" lebar="40" tinggi="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" lebar="40" tinggi="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" lebar="40" tinggi="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" lebar="40" tinggi="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" lebar="40" tinggi="40"/> </a> </p>svg" alt="photoshop" lebar="40" tinggi="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" lebar="40" tinggi="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" lebar="40" tinggi="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" lebar="40" tinggi="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" lebar="40" tinggi="40"/> </a> </p>svg" alt="photoshop" lebar="40" tinggi="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" lebar="40" tinggi="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" lebar="40" tinggi="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" lebar="40" tinggi="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" lebar="40" tinggi="40"/> </a> </p>
 
-<h1 align="center">Hi, I'm Afdhal, passionate web & Android developer! 👋</h1>
+<h3 align="left">Dukungan:</h3>
+<p> <a href="https://www.buymeacoffee.com/Cappucino"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Cappucino" /></a> <a href="https://ko-fi.com/Cappucino "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Cappucino " /></a> </p><br><br>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/bahasa-terbaik?username=dhall-afdhal&show_icons=true&locale=id&layout=compact" alt="dhall-afdhal" /></p>
 
-<!-- Statistik Dinamis -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afdhali-dev&show_icons=true&theme=radical&bg_color=0D0D2B,3A0CA3,7209B7&title_color=F72585&text_color=FFFFFF"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afdhali-dev&layout=compact&theme=radical&bg_color=0D0D2B,3A0CA3,7209B7&title_color=F72585&text_color=FFFFFF"/>
-</p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhall-afdhal&show_icons=true&locale=id" alt="dhall-afdhal" /></p>
 
----
-
-<!-- Sosial Media -->
-<p align="center">
-  <a href="https://linkedin.com/in/afdhali-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Animasi Contributions Modern -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afdhali-dev/afdhali-dev/main/contributions-animated.svg" alt="Contributions Animation" width="80%"/>
-  <br/>
-  <i>Modern contributions animation (auto running)</i>
-</p>
-
----
-
-<p align="center">
-  <i>Thank you for visiting my profile!</i>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhall-afdhal&" alt="dhall-afdhal" /></p>
